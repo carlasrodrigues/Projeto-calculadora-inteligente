@@ -12,39 +12,41 @@ Você pode obter o projeto de duas formas:
     ```bash
   git clone https://github.com/seu-usuario/projeto-calculadora-inteligente.git
   
-## Execução do Projeto
+**Execução do Projeto**
 Em Sistemas Unix (Linux ou macOS)
 Abra o terminal na pasta do projeto.
 
 ## Dê permissão de execução ao script:
 
-```bash
-chmod +x run.sh.
+bash
+
+chmod +x run.sh
 
 
 ## Execute o script:
 
-```bash
-./run.sh.
+bash
+
+./run.sh
 
 
 ## Em Windows
 Você pode executar o arquivo calculadora.py diretamente com o Python. Para isso, abra o prompt de comando ou terminal e digite:
 
-```bash
-python calculadora.py.
+bash
 
+python calculadora.py
 
 ## Explicação do Código Python
-O arquivo calculadora.py é um script em Python que:
+**O arquivo calculadora.py é um script em Python que:**
 
-Solicita dois números do usuário e os converte para float.
+- Solicita dois números do usuário e os converte para float.
 
-Permite escolher uma operação matemática (adição, subtração, multiplicação ou divisão).
+- Permite escolher uma operação matemática (adição, subtração, multiplicação ou divisão).
 
-Exibe o resultado da operação.
+- Exibe o resultado da operação.
 
-Permite realizar várias operações consecutivas até que o usuário decida sair.
+- Permite realizar várias operações consecutivas até que o usuário decida sair.
 
 ## Arquivo Executável (.sh)
 O arquivo run.sh é um script shell que executa a calculadora. Ele contém o seguinte comando:
