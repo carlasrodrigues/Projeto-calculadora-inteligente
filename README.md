@@ -21,6 +21,7 @@ Abra o terminal na pasta do projeto.
 bash
 
 chmod +x run.sh
+
 Execute o script:
 
 bash
