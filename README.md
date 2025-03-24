@@ -22,7 +22,7 @@ bash
 
 chmod +x run.sh
 
-Execute o script:
+## Execute o script:
 
 bash
 
