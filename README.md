@@ -9,7 +9,7 @@ Você pode obter o projeto de duas formas:
 - **Download ZIP:** Clique em **Code** e depois em **Download ZIP**.
 - **Clonando o repositório:**  
   Abra o terminal e execute:
-  ```bash
+    ```bash
   git clone https://github.com/seu-usuario/projeto-calculadora-inteligente.git
   
 ## Execução do Projeto
@@ -21,16 +21,19 @@ Abra o terminal na pasta do projeto.
 ```bash
 chmod +x run.sh
 
+
 ## Execute o script:
 
 ```bash
 ./run.sh
+
 
 ## Em Windows
 Você pode executar o arquivo calculadora.py diretamente com o Python. Para isso, abra o prompt de comando ou terminal e digite:
 
 ```bash
 python calculadora.py
+
 
 ## Explicação do Código Python
 O arquivo calculadora.py é um script em Python que:
