@@ -18,20 +18,20 @@ Abra o terminal na pasta do projeto.
 
 ## Dê permissão de execução ao script:
 
-```bash
+`bash
 chmod +x run.sh
 
 
 ## Execute o script:
 
-```bash
+`bash
 ./run.sh
 
 
 ## Em Windows
 Você pode executar o arquivo calculadora.py diretamente com o Python. Para isso, abra o prompt de comando ou terminal e digite:
 
-```bash
+`bash
 python calculadora.py
 
 
@@ -49,7 +49,7 @@ Permite realizar várias operações consecutivas até que o usuário decida sai
 ## Arquivo Executável (.sh)
 O arquivo run.sh é um script shell que executa a calculadora. Ele contém o seguinte comando:
 
-```bash
+`bash
 #!/bin/bash
 # Este script executa a calculadora inteligente
 python3 calculadora.py
