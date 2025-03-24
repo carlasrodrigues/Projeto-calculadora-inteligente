@@ -15,7 +15,7 @@ Copiar
 ./run.sh
 Se você estiver usando o Windows, pode rodar o arquivo calculadora.py diretamente com o Python.
 
-Explicação do Código Python
+## Explicação do Código Python
 O arquivo calculadora.py é um script em Python que:
 
 Pede dois números para o usuário e os converte para float.
